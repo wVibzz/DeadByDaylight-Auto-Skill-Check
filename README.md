@@ -1,4 +1,4 @@
-# DBDAutoQTE
+# Dead by Daylight Auto Skill Check
 
 Ahk Version 1.1.37 as of upload
 
