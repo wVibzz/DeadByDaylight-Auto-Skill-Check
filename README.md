@@ -12,3 +12,8 @@ Press 2 for Healing
 
 The first version is very buggy and will not have many features.
 Expect periodic updates.
+
+
+
+
+CURRENTLY BROKEN AS OF 9/20 WILL FIX SOON
