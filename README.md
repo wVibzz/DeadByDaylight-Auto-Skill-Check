@@ -15,6 +15,7 @@ The first version is very buggy and will not have many features.
 Expect periodic updates.
 
 
+
 In the procses of updating to latest version and bug fixes as of 9/30 
 Will update when finished
 
