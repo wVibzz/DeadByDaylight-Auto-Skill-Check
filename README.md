@@ -15,8 +15,7 @@ Expect periodic updates.
 
 
 
-
 CURRENTLY BROKEN AS OF 9/20 WILL FIX SOON
-
+ 
 In the procses of updating to latest version and bug fixes as of 9/30 
 Will update when finished
