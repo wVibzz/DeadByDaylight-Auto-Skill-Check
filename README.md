@@ -18,8 +18,7 @@ Along with this the script has a 94% succsess rate. With it only messing up
 Somtimes.
 
 Next Update Plans:
-Perks for Survivors
-Perks for Killers
+Perks for Survivors + Killers
 
 How to Use:
 Hold 'F' while doing skill checks (Gen or Heal, NOT wiggle SC)
