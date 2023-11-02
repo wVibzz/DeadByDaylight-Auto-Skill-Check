@@ -6,16 +6,22 @@ I run DBD in 1080p running in a different res might cause problems
 
 
 
-DBD Script Vers. 1.0
-Hold H while doing QTE's 
-Press 1 for Gens 
-Press 2 for Healing
-The first version is very buggy and will not have many features.
-Expect periodic updates.
+DBD Script Vers. 2.0
 
+Finnally after a 1 month or two here is everything that is new:
 
+NEW SEARCH ALGORITHM
+Will now search for the skill check very fast and then wait for the 
+red mark to reach it rather then try and predict when it will hit
 
-CURRENTLY BROKEN AS OF 9/20 WILL FIX SOON
- 
-In the procses of updating to latest version and bug fixes as of 9/30 
-Will update when finished
+Along with this the script has a 94% succsess rate. With it only messing up 
+Somtimes.
+
+Next Update Plans:
+Perks for Survivors
+Perks for Killers
+
+How to Use:
+Hold 'F' while doing skill checks (Gen or Heal, NOT wiggle SC)
+the script may stop working, if that is the case just run the
+script again it will stop the old one and run it new.
