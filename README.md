@@ -1,14 +1,12 @@
-# Dead by Daylight Auto Skill Check
+# DBD Auto SKill Check Script Version 2.0
+Ahk Version 1.1.37
+Use at your own risk. Not my fault if you get banned.
 
-* Ahk Version 1.1.37
-* Use at your own risk. Not my fault if you get banned.
-
-# DBD Script Vers. 2.0
-### NEW SEARCH ALGORITHM
+### NEW IN VERSION 2: BETTER SEARCH ALGORITHM
 * Searches the circle for the perfect zone
 * Waits for progress bar to hit the perfect zone
 * Completes the skill check
-* *This script will mess up somtimes*
+* *This script will mess up randomly*
 
 ![1875818701_preview_skillcheck](https://github.com/wVibzz/DeadByDaylight-Auto-Skill-Check/assets/113342610/df3b0560-2379-47f5-a83b-2fef3e608b8d)
 
@@ -31,3 +29,8 @@
 - [x] Unnerving Presence
 - [x] Oppression
 - [ ] Madness (Low chance of being done due to the complexity)
+
+# Future Updates
+* Controller Support
+* User Interface
+* Complete Automation without user input
