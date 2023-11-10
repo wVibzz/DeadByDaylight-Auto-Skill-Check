@@ -19,12 +19,16 @@
 
 # Next Update Plans
 ### Survivor Perks
-- [ ] Hyper Focus
-- [ ] Fast Track
-- [ ] Potential Energy
+- [x] Hyper Focus
+- [ ] Fast Track (Not Started)
+- [ ] Potential Energy (Not Started)
 
 ### Killer Perks
-- [ ] Coulrophobia
-- [ ] Merciless Storm
-- [ ] Overcharge
-- [ ] Unnerving Presence
+- [ ] Coulrophobia (Needs testing done)
+- [ ] Merciless Storm (Not Started)
+- [x] Overcharge
+- [x] Unnerving Presence
+- [x] Oppression
+- [ ] Madness (Low chance of being done due to the complexity)
+
+When all these are checked Expect an update.
