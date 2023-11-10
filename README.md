@@ -17,7 +17,8 @@
 * Hold 'F' while doing skill checks (Gen or Heal, NOT wiggle SC)
 * I run DBD in 1080p running in a different res might cause problems
 
-# Next Update Plans
+# Next Update Plans 
+### When all these are checked expect an update
 ### Survivor Perks
 - [x] Hyper Focus
 - [ ] Fast Track (Not Started)
@@ -30,5 +31,3 @@
 - [x] Unnerving Presence
 - [x] Oppression
 - [ ] Madness (Low chance of being done due to the complexity)
-
-When all these are checked Expect an update.
