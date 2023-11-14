@@ -1,8 +1,9 @@
-# DBD Auto SKill Check Script Version 2.0
-Ahk Version 1.1.37
-Use at your own risk. Not my fault if you get banned.
+# DBD Auto SKill Check Script Version 2.0.1
+### Update 2.0.1 Notes:
+Improved consistency of skill checks
 
-### NEW IN VERSION 2: BETTER SEARCH ALGORITHM
+
+### NEW IN VERSION 2.0.0: BETTER SEARCH ALGORITHM
 * Searches the circle for the perfect zone
 * Waits for progress bar to hit the perfect zone
 * Completes the skill check
@@ -34,3 +35,8 @@ Use at your own risk. Not my fault if you get banned.
 * Controller Support
 * User Interface
 * Complete Automation without user input
+
+
+#Disclaimmer!
+Ahk Version 1.1.37
+Use at your own risk. Not my fault if you get banned.
