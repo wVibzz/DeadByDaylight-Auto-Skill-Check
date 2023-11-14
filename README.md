@@ -1,7 +1,7 @@
 # DBD Auto SKill Check Script Version 2.0.1
 ### Update 2.0.1 Notes:
-Improved consistency of skill checks
-
+* Improved consistency of skill checks
+* Current Issue: Depending on where you look the skill checks will not work
 
 ### NEW IN VERSION 2.0.0: BETTER SEARCH ALGORITHM
 * Searches the circle for the perfect zone
@@ -15,6 +15,7 @@ Improved consistency of skill checks
 # How to Use:
 * Hold 'F' while doing skill checks (Gen or Heal, NOT wiggle SC)
 * I run DBD in 1080p running in a different res might cause problems
+* Ahk Version 1.1.37
 
 # Next Update Plans 
 ### When all these are checked expect an update
@@ -32,11 +33,10 @@ Improved consistency of skill checks
 - [ ] Madness (Low chance of being done due to the complexity)
 
 # Future Updates
-* Controller Support
+* Controller Support (soon)
 * User Interface
 * Complete Automation without user input
 
 
 #Disclaimmer!
-Ahk Version 1.1.37
 Use at your own risk. Not my fault if you get banned.
