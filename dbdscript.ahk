@@ -41,7 +41,7 @@ while GetKeyState("f", "P") { ;while holding h
 	}
 		else
 	{
-		arc := 10, radius := 67, time := a_tickcount ;arc is speed it checks the circle. Radius is the circle area it revolves around
+		arc := 7, radius := 67.5, time := a_tickcount ;arc is speed it checks the circle. Radius is the circle area it revolves around
 		plot(xMidScrn, yMidScrn - 15, a_index * arc, radius, x2, y2)
 		PixelSearch, oX, oY, x2, y2, x2, y2, colorwhite , 6, Fast RGB ;search for the color white within 6 shades at the circled area
 		;mousemove x2,y2 ;debug 
