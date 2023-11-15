@@ -33,7 +33,7 @@ MainScript:
 while GetKeyState("f", "P") { ;while holding h
 	coordmode pixel
 	setformat floatfast, 0
-	PixelSearch, px, py, 910, 510, 925, 520, colorwhite, 1, Fast RGB
+	PixelSearch, px, py, 910, 510, 925, 520, colorwhite, 2, Fast RGB
 	;mousemove, px, py ;debug
 	if ErrorLevel
 	{
