@@ -1,4 +1,7 @@
 # DBD Auto SKill Check Script Version 2.x.x
+### Next Update (SOON)
+* Gui that shows DBD ASC in motion
+
 ### Update 2.0.2 Notes:
 * Improved consistency of skill checks
 * Same Issue in 2.0.1
@@ -7,7 +10,7 @@
 * Improved consistency of skill checks
 * Current Issue: Depending on where you look the skill checks will not work
 
-### NEW IN VERSION 2.0.0: BETTER SEARCH ALGORITHM
+## NEW IN VERSION 2.0.0: BETTER SEARCH ALGORITHM
 * Searches the circle for the perfect zone
 * Waits for progress bar to hit the perfect zone
 * Completes the skill check
@@ -21,26 +24,30 @@
 * I run DBD in 1080p running in a different res might cause problems
 * Ahk Version 1.1.37
 
-# Next Update Plans 
-### When all these are checked expect an update
+# V3 Update Plans 
+### When all these are checked expect the update
 ### Survivor Perks
 - [x] Hyper Focus
 - [ ] Fast Track (Not Started)
 - [ ] Potential Energy (Not Started)
 
 ### Killer Perks
-- [ ] Coulrophobia (Needs testing done)
-- [ ] Merciless Storm (Not Started)
+- [ ] Coulrophobia (In Testing)
+- [ ] Merciless Storm (In Testing)
 - [x] Overcharge
 - [x] Unnerving Presence
 - [x] Oppression
-- [ ] Madness (Low chance of being done due to the complexity)
+- [ ] Madness (Low chance of being done due to the complexity, may be excluded from v3 update)
 
 # Future Updates
-* Controller Support (soon)
-* User Interface
 * Complete Automation without user input
+* Controller Support
 
+### Update number guide
+* EX: v5.2.7
+* First nuber for big updates (5.)
+* Second Number for semi big updates (.2.)
+* Third number for minor updates (.7)
 
 #Disclaimmer!
 Use at your own risk. Not my fault if you get banned.
