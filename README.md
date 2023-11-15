@@ -1,4 +1,8 @@
 # DBD Auto SKill Check Script Version 2.0.1
+### Update 2.0.2 Notes:
+* Improved consistency of skill checks
+* Same Issue in 2.0.1
+
 ### Update 2.0.1 Notes:
 * Improved consistency of skill checks
 * Current Issue: Depending on where you look the skill checks will not work
