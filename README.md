@@ -1,4 +1,4 @@
-# DBD Auto SKill Check Script Version 2.0.1
+# DBD Auto SKill Check Script Version 2.x.x
 ### Update 2.0.2 Notes:
 * Improved consistency of skill checks
 * Same Issue in 2.0.1
