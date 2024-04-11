@@ -1,6 +1,7 @@
 # DBD Auto SKill Check Script Version 2.x.x
 ### Next Update (Q3 or Q4 2024)
 * Gui that shows DBD ASC in motion
+* Moving to Python
 
 ### Update 2.0.2 Notes:
 * Improved consistency of skill checks
