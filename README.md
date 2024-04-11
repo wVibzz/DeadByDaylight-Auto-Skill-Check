@@ -1,5 +1,5 @@
 # DBD Auto SKill Check Script Version 2.x.x
-### Next Update (SOON)
+### Next Update (Q3 or Q4 2024)
 * Gui that shows DBD ASC in motion
 
 ### Update 2.0.2 Notes:
